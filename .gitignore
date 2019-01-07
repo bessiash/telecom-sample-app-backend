@@ -1,0 +1,12 @@
+!.gitignore
+*.pyc
+.project
+.pydevproject
+.sass-cache
+.settings/
+/static
+/media/
+/settings/__local__.py
+.DS_Store
+*/.DS_Store
+db.sqlite3
