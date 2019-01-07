@@ -67,7 +67,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = (
     'localhost:8080',
-    'http://kormilov_vk.hldns.ru/',
+    'kormilov_vk.hldns.ru',
 )
 
 ROOT_URLCONF = 'urls'
